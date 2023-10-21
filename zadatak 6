@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of page</title>
+</head>
+
+
+    <body>
+        <h1>Neuređena lista</h1>
+        <ul style="list-style-type:disc">
+        <li>Samsung</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Panasonic</li>
+        <li>Motorola</li>
+        </ul>
+    </body>
+
+    <body>
+        <h1>Uređena lista</h1>
+        <ol type="A">
+        <li>Samsung</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Panasonic</li>
+        <li>Motorola</li>
+        </ol>
+        </body>
+
+        <nav>
+<body>
+    <h1>Ugnježđena lista</h1>
+            <li>Samsung</a></li>
+            <ul>
+            <li>Galaxy S23 Ultra</a></li>
+            <li>Galaxy S23+</a></li>
+            <li>Galaxy S23</a></li>
+            <li>Galaxy Z Fold 5</a></li>
+            <li>Galaxy Z Flip 5</a></li>
+            
+            </ul>
+            <li>Apple</a></li>
+            <ul>
+            <li>Iphone 12</a></li>
+            <li>Iphone 13</a></li>
+            <li>Iphone 14 Plus</a></li>
+            <li>Iphone 15 Pro</a></li>
+           
+            </ul>
+</body>
+         </nav>
+
+         <body>
+            <h1>Definicijska lista</h1>
+            <dl>
+            <dt>Samsung</dt>
+            <dd>S23+</dd>
+            <dt>Apple</dt>
+            <dd>Iphone 15 Pro</dd>
+            </dl>
+            </body>
+            
+</table>
+</html>
