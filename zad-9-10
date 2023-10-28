@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of page</title>
+</head>
+
+    <footer>
+          &copy; Ivica Krišto
+         <a href="https://github.com/ikristo84/Web-aplikacije/blob/main/zadatak8"
+          target="_blank">Github</a> &amp; zadatak8. All rights reserved
+    </footer>
+    <p>
+    <div>lorem ipsum dolor <span style="color:red;font-weight: bold;">sit </span>amet, concesetur adepiscing elite</div>
+    </p>
+        <p>
+            <div>Maecenas <span style="color:blue;font-weight: bold;">vitae </span>nibh massa </div>
+        </p>
+    </div>
+	</div>
+    <div style="width: 48%; float: left;margin-right:2%">
+        <iframe width="560" height="315"src="https://youtu.be/NmjgnwsyfLk?feature=shared" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div>
+        <video width="560" height="315"  controls muted poster="" src="video.mp4" title="SkinutiVideo"></video>
+    </div>
+	
+	<div style="float: left:margin-right:2%">
+		<h1>HTML5 <span style="color:blue">&lt;video&gt; </span> YouTube video</h1>
+	<video width="30%" height="30%" controls poster="slika.png">
+		<source src="https://youtu.be/NmjgnwsyfLk?feature=shared" type="video/mp4">
+	</video>
+	</div>
+</table>
+</html>
