@@ -1,34 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Title of page</title>
+    <link rel="icon" type="image/x-icon" href="Icon.ico">
+<title>Naslov</title>
 </head>
 
     <footer>
-          &copy; Ivica Krišto
-         <a href="https://github.com/ikristo84/Web-aplikacije/blob/main/zadatak8"
-          target="_blank">Github</a> &amp; zadatak8. All rights reserved
+          &copy; Sandro Pavlović
+         <a href="https://github.com/ikristo84/Web-aplikacije/blob/main/video.mp4"
+          target="_blank">Github</a> &amp; videop. All rights reserved
     </footer>
     <p>
-    <div>lorem ipsum dolor <span style="color:red;font-weight: bold;">sit </span>amet, concesetur adepiscing elite</div>
+    <div>Ovo je <span style="color:green;font-weight: bold;">prvi </span>odlomak </div>
     </p>
         <p>
-            <div>Maecenas <span style="color:blue;font-weight: bold;">vitae </span>nibh massa </div>
+            <div>Ovo je <span style="color:red;font-weight: bold;">drugi </span>odlomak </div>
         </p>
     </div>
-	</div>
-    <div style="width: 48%; float: left;margin-right:2%">
-        <iframe width="560" height="315"src="https://youtu.be/NmjgnwsyfLk?feature=shared" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div style="width: 48%; float:left; margin-right: 2%;">
+        <iframe width="100%" height="555"src="https://www.youtube.com/embed/6stlCkUDG_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <div>
-        <video width="560" height="315"  controls muted poster="" src="video.mp4" title="SkinutiVideo"></video>
+    <div style="width: 48%; float:left;">
+        <video width="100%" height="555"  controls muted poster="" src="video.mp4" title="SkinutiVideo"></video>
     </div>
-	
-	<div style="float: left:margin-right:2%">
-		<h1>HTML5 <span style="color:blue">&lt;video&gt; </span> YouTube video</h1>
-	<video width="30%" height="30%" controls poster="slika.png">
-		<source src="https://youtu.be/NmjgnwsyfLk?feature=shared" type="video/mp4">
-	</video>
-	</div>
-</table>
+
 </html>
