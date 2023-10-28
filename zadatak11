@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p{
+    color:blue;
+}
+</style>
+</head> <link rel="https://github.com/ikristo84/Web-aplikacije/blob/main/favicon.ico" type="image/x-icon" href="favicon.ico">
+<body>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+</body>
+</html>
