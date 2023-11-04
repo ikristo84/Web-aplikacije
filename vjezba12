@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Vjezba12</title>
+</head>
+<form action="adduser.php" method="post">
+<div>
+    <label for="firstname">Your first name..: </label>
+    <input type="text" id="firstname" name="firstname"><br>
+</div>
+<div>
+    <label for="lastname">Your last name..: </label>
+    <input type="text" id="lastname" name="lastname"><br>
+</div>
+<div>
+    <label for="email">Your e-mail..: </label>
+    <input type="text" id="email" name="email"><br>
+</div>
+
+    <label for="country">Country: </label>
+    <select id="country" name="country">
+            <option value="HR" selected>Croatia</option>
+            <option value="BA">BiH</option>
+            <option value="SI">Slovenia</option>
+            <option value="HU">Hungary</option>
+    </select>
+</form>
+<div>
+    <label for="note">Message</label>
+</div>
+<textarea class="form-control" name="note" id="note"
+                placeholder="Write something...">
+</textarea>
+
+<form action="send" method="post">
+    <input type="submit" value="Send">
+    <input type="reset" value="Reset">
+
+</form>
+
+</html>
